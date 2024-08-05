@@ -16,7 +16,7 @@ Taller practico de python este taller cuenta con varios ejercicios que me sirvie
 
 
 - El primero es una calculadora que pide 3 numeros enteros y al ejecutar el codigo devuelve la sumatoria de estos numeros.
-- El segundo calcula el IMC y da la información del estudiante y en que categoria segun el IMC se encuentra, muestra un reporte de los datos diligenciados en la tabla de.
+- El segundo calcula el IMC y da la información del estudiante y en que categoria segun el IMC se encuentra, muestra un reporte de los datos diligenciados.
 - El tercero permite ingresar números enteros postivos y al ingresar un número negativo se muestra un reporte.
 -  El cuarto permite realizar un resgistro de sismos en las ciudades de colombia
 -  El quinto permite calcular el valor CO2 producido y que instalaciónes tiene mayor producción.
