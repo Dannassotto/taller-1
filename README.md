@@ -11,7 +11,7 @@
 - Gestión de inventarios.
 
 
-## DESCRITION
+## DESCRIPTION
 Taller practico de python este taller cuenta con varios ejercicios que me sirvieron para aprender este lenguaje de programación.
 
 
